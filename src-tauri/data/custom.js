@@ -23,5 +23,4 @@ const hookClick = (e) => {
     }
 }
 
-Icon "C:\Users\20346\Desktop\新建文件夹\built\eggyhub\安装器.ico"
 document.addEventListener('click', hookClick, { capture: true })
